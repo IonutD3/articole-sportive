@@ -28,10 +28,11 @@ articole-sportive/
 │   ├── 02_insert_data.sql
 │   └── 03_queries.sql
 ├── diagrams/
-│   ├── conceptual-schema.png
-│   └── logical-schema.png
-└── docs/
-    └── project.pdf
+│   ├── schema_conceptuala.png
+│   └── schema_logica.png
+└── Documentation/
+    ├── documentatie.docx
+    └── documentatie.pdf
 ```
 
 ### Scripturi SQL
@@ -88,10 +89,11 @@ articole-sportive/
 │   ├── 02_insert_data.sql
 │   └── 03_queries.sql
 ├── diagrams/
-│   ├── conceptual-schema.png
-│   └── logical-schema.png
-└── docs/
-    └── project.pdf
+│   ├── schema_conceptuala.png
+│   └── schema_logica.png
+└── Documentation/
+    ├── documentatie.docx
+    └── documentatie.pdf
 ```
 
 ### SQL scripts
